@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scroll-feat/static/css/main.964fdded.css",
+    "main.js": "/scroll-feat/static/js/main.bd09aca8.js",
+    "static/js/453.50d41ac3.chunk.js": "/scroll-feat/static/js/453.50d41ac3.chunk.js",
+    "index.html": "/scroll-feat/index.html",
+    "main.964fdded.css.map": "/scroll-feat/static/css/main.964fdded.css.map",
+    "main.bd09aca8.js.map": "/scroll-feat/static/js/main.bd09aca8.js.map",
+    "453.50d41ac3.chunk.js.map": "/scroll-feat/static/js/453.50d41ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.bd09aca8.js"
+  ]
+}
