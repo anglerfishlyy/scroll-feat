@@ -10,18 +10,18 @@ First, make sure you have [Node.js](https://nodejs.org/) installed on your machi
 
 ```bash
 npm install
-
+```
 ### Running the Project
 
 To run the project, use the following command:
-
+```
 npm start
-
+```
 
 ### Project Structure
 
 The project structure is as follows:
-
+```
 scroll-feat/
 ├── src/
 │   ├── scroll-to-top-and-bottom/
@@ -35,14 +35,14 @@ scroll-feat/
 │   ├── index.html
 ├── package.json
 ├── README.md
-
-index.jsx
+```
+- index.jsx
 This component fetches data from an API and displays a list of items with buttons to scroll to the top and bottom of the list.
 
-scroll-to-section.jsx
+- scroll-to-section.jsx
 This component displays several sections with different backgrounds and a button to scroll to a specific section.
 
-App.js
+- App.js
 This is the main component that integrates the ScrollToTopAndBottom and ScrollToSection 
 
 
